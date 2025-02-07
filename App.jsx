@@ -14,7 +14,7 @@ function App() {
     <>
       <div>
 
-       <h3>my name{name} and my {age}</h3>
+       <h3>my name{name} and my {age+1}</h3>
        <h3>sum:{add(2,3)}</h3>
 
       </div>
